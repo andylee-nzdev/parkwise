@@ -1,11 +1,11 @@
-package nz.parkwise.recommend;
+package com.andy.parkwise.recommend;
 
-import nz.parkwise.domain.CarPark;
-import nz.parkwise.domain.Recommendation;
-import nz.parkwise.domain.Recommendation.AvailabilitySource;
-import nz.parkwise.occupancy.OccupancyProvider;
-import nz.parkwise.repo.CarParkRepository;
-import nz.parkwise.repo.CarParkRepository.CarParkDistance;
+import com.andy.parkwise.domain.CarPark;
+import com.andy.parkwise.domain.Recommendation;
+import com.andy.parkwise.domain.Recommendation.AvailabilitySource;
+import com.andy.parkwise.occupancy.OccupancyProvider;
+import com.andy.parkwise.repo.CarParkRepository;
+import com.andy.parkwise.repo.CarParkRepository.CarParkDistance;
 import org.springframework.stereotype.Service;
 
 import java.util.Comparator;

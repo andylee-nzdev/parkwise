@@ -1,4 +1,4 @@
-package nz.parkwise.ingestion;
+package com.andy.parkwise.ingestion;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

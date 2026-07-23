@@ -1,7 +1,7 @@
-package nz.parkwise.occupancy;
+package com.andy.parkwise.occupancy;
 
-import nz.parkwise.domain.CarPark;
-import nz.parkwise.domain.Recommendation.AvailabilitySource;
+import com.andy.parkwise.domain.CarPark;
+import com.andy.parkwise.domain.Recommendation.AvailabilitySource;
 
 import java.util.Optional;
 

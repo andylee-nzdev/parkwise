@@ -1,6 +1,6 @@
-package nz.parkwise.repo;
+package com.andy.parkwise.repo;
 
-import nz.parkwise.domain.CarPark;
+import com.andy.parkwise.domain.CarPark;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 

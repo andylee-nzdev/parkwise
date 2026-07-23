@@ -1,4 +1,4 @@
-package nz.parkwise.ingestion;
+package com.andy.parkwise.ingestion;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import org.springframework.stereotype.Component;

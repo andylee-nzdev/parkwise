@@ -1,4 +1,4 @@
-package nz.parkwise.domain;
+package com.andy.parkwise.domain;
 
 /**
  * A ranked recommendation returned to the client.

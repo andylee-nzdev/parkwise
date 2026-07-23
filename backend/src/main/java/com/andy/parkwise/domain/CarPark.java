@@ -1,4 +1,4 @@
-package nz.parkwise.domain;
+package com.andy.parkwise.domain;
 
 /**
  * A car-park facility from Auckland Transport open data.
