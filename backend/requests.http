@@ -1,0 +1,8 @@
+### Health
+GET http://localhost:8080/actuator/health
+
+### Recommend near Britomart (Auckland CBD)
+GET http://localhost:8080/api/recommend?lat=-36.8446&lon=174.7676&radius=1500&limit=8
+
+### Recommend near Takapuna
+GET http://localhost:8080/api/recommend?lat=-36.7869&lon=174.7756&radius=2000&limit=5
