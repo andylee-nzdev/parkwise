@@ -119,3 +119,11 @@ div {
 pre {
   align-items: start;
 }
+
+/* The global `div` flex rule above breaks MapLibre's internal layout
+   (controls, popups, attribution). Let MapLibre manage its own DOM. */
+.maplibregl-map div {
+  display: revert;
+  flex-direction: revert;
+  align-items: revert;
+}
